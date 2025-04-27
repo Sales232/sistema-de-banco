@@ -14,7 +14,7 @@ O projeto foi criado como parte de um trabalho acadêmico, com o intuito de refo
 - Manipulação de dados em memória
 
 🚀 Funcionalidades
--Criar conta bancária
+- Criar conta bancária
 - Gerar número de conta aleatório
 - Realizar depósitos e saques
 - Consultar saldo da conta
