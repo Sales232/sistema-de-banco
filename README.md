@@ -1,7 +1,7 @@
-# Sistema bancário em Python
+# Simulação de caixa eletrônico em Python
 
 📚 Descrição:
-Este é um projeto de sistema bancário simples, desenvolvido em Python com fins educacionais.
+Este é um projeto de Simulação de caixa eletrônico simples, desenvolvido em Python com fins educacionais.
 O sistema permite:
 - Criar contas bancárias com geração automática de número de conta.
 -Acessar contas existentes.
@@ -22,7 +22,7 @@ O projeto foi criado como parte de um trabalho acadêmico, com o intuito de refo
 
 🛠 Tecnologias Utilizadas
 - Python 3.x
-- Venv
+- Venv (ambiente de virtualização)
 
 📸 Demonstração: 
 
