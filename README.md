@@ -30,5 +30,5 @@ O projeto foi criado como parte de um trabalho acadêmico, com o intuito de refo
 
 ![image](https://github.com/user-attachments/assets/888a8366-e2ab-43c0-a1f8-1833edee290c)
 
-👨‍💻 Autor
+👨‍💻 Autor:
 https://www.linkedin.com/in/pedronsales/
